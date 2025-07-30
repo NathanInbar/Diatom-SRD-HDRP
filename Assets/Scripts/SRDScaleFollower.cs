@@ -19,5 +19,6 @@ public class SRDScaleFollower : MonoBehaviour
     void UpdateScale(float newScale)
     {
         //TODO - put the SRD scale effect here 
+        gameObject.transform.localScale = new Vector3(newScale, newScale, newScale);
     }
 }
