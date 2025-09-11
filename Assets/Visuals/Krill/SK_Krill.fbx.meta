@@ -1,19 +1,14 @@
 fileFormatVersion: 2
-guid: db28f2f772890d34dbdb231046d5f488
+guid: e553e389f1e92804b95179416f56d9d7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Scene_-_Root
-    second: {fileID: 2100000, guid: d315233cd1dac1b4fa6cb12f5c2577ca, type: 2}
+  externalObjects: {}
   materials:
-    materialImportMode: 2
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -38,7 +33,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 23
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -93,7 +88,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 23
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
