@@ -1,4 +1,5 @@
 using UnityEngine;
+#if UNITY_EDITOR
 using UnityEditor;
 
 [CustomEditor(typeof(Transform))]
@@ -29,3 +30,4 @@ public class RandomChildRotationEditor : Editor
         EditorUtility.SetDirty(parent);
     }
 }
+#endif
