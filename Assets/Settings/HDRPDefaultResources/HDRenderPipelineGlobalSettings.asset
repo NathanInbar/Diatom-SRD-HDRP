@@ -156,7 +156,6 @@ MonoBehaviour:
       sssCustomDownsampleSteps: 0
       msaaMode: 1
       materialQuality: 0
-  m_Version: 14
   m_Settings:
     m_SettingsList:
       m_List:
@@ -197,6 +196,7 @@ MonoBehaviour:
       m_List:
       - rid: 8556427327610290176
       - rid: 8556427327610290180
+      - rid: 8556427327610290182
       - rid: 8872003976176599040
       - rid: 8872003976176599041
       - rid: 8872003976176599042
@@ -255,6 +255,7 @@ MonoBehaviour:
     obsoleteHasProbeVolumes:
       m_Keys: []
       m_Values: 
+  m_Version: 14
   references:
     version: 2
     RefIds:
